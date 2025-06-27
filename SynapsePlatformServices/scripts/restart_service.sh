@@ -1,2 +1,0 @@
-sudo systemctl restart synapseplatformservices.service
-sudo systemctl restart nginx
